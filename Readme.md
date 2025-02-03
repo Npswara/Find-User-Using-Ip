@@ -1,6 +1,6 @@
 # IP Address Locator
 
-Proyek ini adalah program Python sederhana yang mengambil alamat IP publik Anda dan mendapatkan informasi lokasi berdasarkan alamat IP tersebut.
+Proyek ini adalah program Python yang mengambil alamat IP publik Anda dan mendapatkan informasi lokasi berdasarkan alamat IP tersebut.
 
 ## Cara Menggunakan
 
